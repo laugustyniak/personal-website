@@ -18,54 +18,54 @@ subtitle = ""
   icon = "comments"
   icon_pack = "fas"
   name = "Conversational AI"
-  description = "100%"
+  description = ""
   
 [[feature]]
   icon = "smile"
   icon_pack = "fas"
   name = "Sentiment Analysis"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "searchengin"
   icon_pack = "fab"
   name = "Information Extraction"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
   name = "LegaL NLP"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "gavel"
   icon_pack = "fas"
   name = "IP Law"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "check-double"
   icon_pack = "fas"
   name = "Recommendation Engines"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "facebook"
   icon_pack = "fab"
   name = "Social Media Analytics"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "volume-up"
   icon_pack = "fas"
   name = "Spoken Language Understading"
-  description = "100%"
+  description = ""
 
 +++
