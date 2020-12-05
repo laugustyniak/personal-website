@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist / Machine Learning Engineer
+role: Data Scientist / Machine Learning Engineer / AI Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -84,4 +84,16 @@ user_groups:
   # - Project's staff
 ---
 
-Łukasz is a Data Scientist with 8+ years of experience in various ML projects (social media monitoring, call center's transcriptions analysis, recommendation engines, information extraction from texts, legal texts analysis, and many more). He is finishing a PhD in Machine Learning, related to aspect-based sentiment analysis at the Wroclaw University of Science and Technology, Poland. He received MSc in Computer Science from the Wroclaw University of Technology in 2013 with distinction. He also received an MA in Law from Wroclaw University in 2014, and he is still actively interested in the legal aspects of IT and analysis of legal documents using NLP.
+Łukasz is a Data Scientist / AI Consultant with 8+ years of experience in various ML projects (social media monitoring, call center's transcriptions analysis, recommendation engines, information extraction from texts, legal texts analysis, and many more).
+
+An award-winning Ph.D. student at the Wroclaw University of Science and Technology is working on artificial intelligence methods to analyze natural language, especially attitude analysis, generating abstract summaries of text collections for many languages, including English and Polish.
+
+Lecturer at scientific and business conferences related to artificial intelligence, lectures given worldwide - Poland, United States, Italy, Great Britain, Belgium, China, Vietnam, Singapore. He actively participated in many national and international scientific projects: ENGINE, RENOIR, PL-Grid, TRANSFORM, cooperating with such research units as Stanford University (USA), Rensselaer Polytechnic Institute (USA), Notre Dame University (USA), Johns Hopkins University (USA), Nanyang Technological University (Singapore), Universidad Carlos III de Madrid (Spain), Jozef Stefan Institute (Slovenia).
+
+He is co-author of many scientific publications in attitude analysis, information retrieval, and spoken language understanding, including those published in prestigious international journals such as Entropy and Neurocomputing. He is a laureate of the governmental TOP 500 Innovators program, within the framework of which he gained knowledge on the commercialization of scientific research at Cambridge and Oxford Universities. Simultaneously, with his computer science studies, he received a master's degree in law at the University of Wroclaw.
+
+He received MSc in Computer Science from the Wroclaw University of Technology in 2013 with distinction. He also received an MA in Law from Wroclaw University in 2014, and he is still actively interested in the legal aspects of IT and analysis of legal documents using NLP.
+
+He has implemented business projects such as social media monitoring (Brand24), analysis of transcripts in call centers (AVAYA, Spoken Communication), recommendation engines for marketing actions (8thlab, startup), text extraction (MeaningCloud), data analysis in automotive (Edvantis) and many others.
+
+For several years he has also been a consultant on issues related to machine learning and Data Science.
