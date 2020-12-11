@@ -1,27 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Comprehensive analysis of aspect term extraction methods using various text
+title:
+  Comprehensive analysis of aspect term extraction methods using various text
   embeddings
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 authors:
-- Lukasz Augustyniak
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+  - Lukasz Augustyniak
+  - Tomasz Kajdanowicz
+  - Przemysław Kazienko
 tags: []
 categories: []
-date: '2019-01-01'
+date: "2019-01-01"
 lastmod: 2020-12-05T18:11:51+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -30,10 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-05T17:11:50.083271Z'
+publishDate: "2020-12-05T17:11:50.083271Z"
 publication_types:
-- '0'
-abstract: Recently, a variety of model designs and methods have blossomed in the context
+  - "0"
+abstract:
+  Recently, a variety of model designs and methods have blossomed in the context
   of the sentiment analysis domain. However, there is still a lack of wide and comprehensive
   studies of aspect-based sentiment analysis (ABSA). We want to fill this gap and
   propose a comparison with ablation analysis of aspect term extraction using various
@@ -45,5 +47,5 @@ abstract: Recently, a variety of model designs and methods have blossomed in the
   memory (BiLSTM) outperform regular LSTM, but also word embedding coverage and its
   source highly affect aspect detection performance. An additional CRF layer consistently
   improves the results as well.
-publication: '*arXiv*'
+publication: "*arXiv*"
 ---

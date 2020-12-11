@@ -1,25 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title:
-  "Punctuation Prediction in Spontaneous Conversations: Can We Mitigate ASR Errors
-  with Retrofitted Word Embeddings?"
+title: Graph-based approach to Unsupervised Aspect Hierarchies Extraction and Sentimental Summarization
 subtitle: ""
 summary: ""
 authors:
   - Lukasz Augustyniak
-  - Piotr Szymanski
-  - Mikolaj Morzy
-  - Piotr Zelasko
-  - Adrian Szymczak
-  - Jan Mizgajski
-  - Yishay Carmiel
-  - Najim Dehak
+  - Tomasz Kajdanowicz
+  - Przemyslaw Kazienko
 tags: []
 categories: []
-date: "2020-01-01"
-lastmod: 2020-12-05T18:11:35+01:00
-featured: true
+date: "2020-10-10"
+lastmod: 2020-12-05T18:11:47+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -36,13 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2020-12-05T17:11:34.895725Z"
+publishDate: "2020-12-10T17:11:46.376704Z"
 publication_types:
-  - "1"
+  - "2"
 abstract: ""
-publication:
-  "*Interspeech 2020, 21st Annual Conference of the International Speech
-  Communication Association, Virtual Event, Shanghai, China, 25-29 October 2020*"
-url_pdf: https://doi.org/10.21437/Interspeech.2020-1250
-doi: 10.21437/Interspeech.2020-1250
+publication: "in review"
+# url_pdf: ""
+# doi: ""
 ---

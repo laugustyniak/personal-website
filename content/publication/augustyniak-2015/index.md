@@ -2,37 +2,37 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Comprehensive study on lexicon-based ensemble classification sentiment analysis
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 authors:
-- Lukasz Augustyniak
-- Piotr Szymánski
-- Tomasz Kajdanowicz
-- Wlodzimierz Tuliglowicz
+  - Lukasz Augustyniak
+  - Piotr Szymánski
+  - Tomasz Kajdanowicz
+  - Wlodzimierz Tuliglowicz
 tags:
-- '"Ensemble classification"'
-- '"Machine learning"'
-- '"Opinion mining"'
-- '"Sentiment analysis"'
-- '"Sentiment lexicon generation"'
-- '"ensemble"'
-- '"lexicons"'
-- '"machine learning"'
-- '"my"'
-- '"sentiment analysis"'
-- '"supervised learning"'
+  - '"Ensemble classification"'
+  - '"Machine learning"'
+  - '"Opinion mining"'
+  - '"Sentiment analysis"'
+  - '"Sentiment lexicon generation"'
+  - '"ensemble"'
+  - '"lexicons"'
+  - '"machine learning"'
+  - '"my"'
+  - '"sentiment analysis"'
+  - '"supervised learning"'
 categories: []
-date: '2016-01-01'
+date: "2016-01-01"
 lastmod: 2020-12-05T18:11:43+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -41,10 +41,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-05T17:11:42.353102Z'
+publishDate: "2020-12-05T17:11:42.353102Z"
 publication_types:
-- '2'
-abstract: We propose a novel method for counting sentiment orientation that outperforms
+  - "2"
+abstract:
+  We propose a novel method for counting sentiment orientation that outperforms
   supervised learning approaches in time and memory complexity and is not statistically
   significantly different from them in accuracy. Our method consists of a novel approach
   to generating unigram, bigram and trigram lexicons. The proposed method, called
@@ -59,7 +60,7 @@ abstract: We propose a novel method for counting sentiment orientation that outp
   statistical comparison of the sentiment annotation methods that include ensemble
   approaches. It is one of the most comprehensive comparisons of domain sentiment
   analysis in the literature.
-publication: '*Entropy*'
+publication: "*Entropy*"
 url_pdf: http://www.mdpi.com/1099-4300/18/1/4
 doi: 10.3390/e18010004
 ---
