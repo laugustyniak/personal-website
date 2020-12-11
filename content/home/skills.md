@@ -15,6 +15,18 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "spell-check"
+  icon_pack = "fas"
+  name = "AI Solutions Due Diligence"
+  description = ""
+
+[[feature]]
+  icon = "dice-d6"
+  icon_pack = "fas"
+  name = "AI Architecture Planning"
+  description = ""
+
+[[feature]]
   icon = "comments"
   icon_pack = "fas"
   name = "Conversational AI"
@@ -66,6 +78,12 @@ subtitle = ""
   icon = "volume-up"
   icon_pack = "fas"
   name = "Spoken Language Understading"
+  description = ""
+
+[[feature]]
+  icon = "user-friends"
+  icon_pack = "fas"
+  name = "ML Teams Hiring"
   description = ""
 
 +++
