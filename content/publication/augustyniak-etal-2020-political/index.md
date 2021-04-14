@@ -49,7 +49,7 @@ abstract:
   of use cases for such datasets and models with an initial analysis of the Polish
   2020 Presidential Elections on Twitter.
 publication:
-  "*Proceedings of the The Fourth Widening Natural Language Processing
+  "*ACL 2020, WiNLP, Proceedings of the The Fourth Widening Natural Language Processing
   Workshop*"
 url_pdf: https://www.aclweb.org/anthology/2020.winlp-1.28
 doi: 10.18653/v1/2020.winlp-1.28

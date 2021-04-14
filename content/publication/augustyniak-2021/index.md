@@ -12,7 +12,7 @@ authors:
   - Przemysław Kazienko
 tags: []
 categories: []
-date: "2019-01-01"
+date: "2021-03-04"
 lastmod: 2020-12-05T18:11:51+01:00
 featured: true
 draft: false
@@ -47,5 +47,7 @@ abstract:
   memory (BiLSTM) outperform regular LSTM, but also word embedding coverage and its
   source highly affect aspect detection performance. An additional CRF layer consistently
   improves the results as well.
-publication: "*arXiv*"
+publication: "Computer Speech & Language"
+url_pdf: "https://export.arxiv.org/pdf/1909.04917"
+doi: "10.1016/j.csl.2021.101217"
 ---

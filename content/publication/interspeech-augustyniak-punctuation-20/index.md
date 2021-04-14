@@ -39,7 +39,7 @@ projects: []
 publishDate: "2020-12-05T17:11:34.895725Z"
 publication_types:
   - "1"
-abstract: ""
+abstract: Automatic Speech Recognition (ASR) systems introduce word errors, which often confuse punctuation prediction models, turning punctuation restoration into a challenging task. These errors usually take the form of homonyms. We show how retrofitting of the word embeddings on the domain-specific data can mitigate ASR errors. Our main contribution is a method for better alignment of homonym embeddings and the validation of the presented method on the punctuation prediction task. We record the absolute improvement in punctuation prediction accuracy between 6.2% (for question marks) to 9% (for periods) when compared with the state-of-the-art model.
 publication:
   "*Interspeech 2020, 21st Annual Conference of the International Speech
   Communication Association, Virtual Event, Shanghai, China, 25-29 October 2020*"
