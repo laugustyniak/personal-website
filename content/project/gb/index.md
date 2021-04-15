@@ -1,12 +1,8 @@
 ---
-title: Avaya Conversational Intelligence
-summary: The Call Center Analytics
+title: Sales leads Generation
+summary: The ML pipeline for processing (data acqusition, analysis, information extraction) all companies in the world and the recommendation engine that generates the sales leads.
 tags:
-  - Spoken Language
-  - Complex Networks
-  - Machine Learning
-  - Deep Learning
-  - Representation Learning
+  -
 date: "2017-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -38,7 +34,7 @@ authors:
 
 # Our objective
 
-Design and implementation of AI-enabled solutions responsible for a reduction of transaction times, improvement of agent's productivity, and an increase in customer satisfaction. Implementation of state-of-the-art models for spoken language understanding.
+The creation of the Machine Learning models and processing pipeline to acquire, preprocess, extract, model, and recommend companies and people as Sales leads. The project covered gathering business requirements, data exploration of what is possible, designing the ML architecture, creation of many datasets and data labeling pipelines, and of course, the implementation of a recommendation model.
 
 <!-- <p align="center">
   <img src="network.png">
