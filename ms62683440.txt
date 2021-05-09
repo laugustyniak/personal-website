@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "lukaszaugustyniak.com",
+  "Id": "8f6a8a79-b2fb-4744-bab8-e213a261336e"
+}
