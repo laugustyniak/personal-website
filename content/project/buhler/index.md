@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vehicle information analysis"
-summary: "Exploration and analysis of vehicle data to improve creation process of Periodic Technical Inspections."
+title: "IoT Signal Analysis for Agricultural Machinery"
+summary: "Data gathering and signal analysis of milling machines"
 authors: []
 tags:
  - Vehicle Analysis
@@ -10,7 +10,7 @@ tags:
  - Periodic Technical Inspections
  - Exploratory Data Analysis
 categories: []
-date: 2019-12-15T01:15:44+02:00
+date: 2021-05-15T01:15:44+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +19,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "IoT Analysis"
   focal_point: ""
   preview_only: false
 
@@ -44,6 +44,6 @@ url_video: ""
 slides: ""
 ---
 
-The project covered the analysis of complex vehicle information standards such as Open Diagnostic data eXchange (ODX). This diagnostic data standard contains protocol specifications for diagnostic communication of ECUs (Electronic control unit), communication parameters for different protocols, data link layers for ECUs, and many more information about vehicles.
+The project covered the analysis of complex signals from milling machines. I designed and developed the data pipeline with signal analysis for the client leading a team of 4 developers.
 
-The project was developed in order to improve creation process of Periodic Technical Inspections.
+I have also profiled and improved the CPU and memory usage of the pipeline.

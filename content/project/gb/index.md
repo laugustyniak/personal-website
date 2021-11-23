@@ -1,15 +1,19 @@
 ---
-title: Sales leads Generation
-summary: The ML pipeline for processing (data acqusition, analysis, information extraction) all companies in the world and the recommendation engine that generates the sales leads.
+title: Sales leads recommendation engine
+summary: The recommendation engine for sales leads - it recommends across almost all companies globally (approx 10M companies).
 tags:
-  -
-date: "2017-02-01T00:00:00Z"
+  - Recommendation engine
+  - Machine Learning
+  - Deep Learning
+  - Data Labeling
+  - Information Retrieval
+date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Pixabay
+  caption: Recommendation Engine
   focal_point: Smart
 
 # links:
@@ -32,9 +36,7 @@ authors:
   # - kajdanowicz
 ---
 
-# Our objective
-
-The creation of the Machine Learning models and processing pipeline to acquire, preprocess, extract, model, and recommend companies and people as Sales leads. The project covered gathering business requirements, data exploration of what is possible, designing the ML architecture, creation of many datasets and data labeling pipelines, and of course, the implementation of a recommendation model.
+The creation of the Machine Learning models and processing pipeline to acquire, preprocess, extract, model, and recommend companies and people as Sales leads. The project covered gathering business requirements, data exploration of what is possible, designing the ML architecture, creating many datasets and data labeling pipelines, and implementing a recommendation model.
 
 <!-- <p align="center">
   <img src="network.png">
