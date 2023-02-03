@@ -1,8 +1,9 @@
 ---
-title: Sales leads recommendation engine
-summary: The recommendation engine for sales leads - it recommends across almost all companies globally (approx 10M companies).
+title: Creating a Machine Learning-Based Sales Lead Generation System
+summary: The recommendation engine for sales leads - it recommends across almost all companies globally (10M+ companies).
 tags:
-  - Recommendation engine
+  - Recommendation Engine
+  - Anything2Vec
   - Machine Learning
   - Deep Learning
   - Data Labeling
@@ -36,7 +37,13 @@ authors:
   # - kajdanowicz
 ---
 
-The creation of the Machine Learning models and processing pipeline to acquire, preprocess, extract, model, and recommend companies and people as Sales leads. The project covered gathering business requirements, data exploration of what is possible, designing the ML architecture, creating many datasets and data labeling pipelines, and implementing a recommendation model.
+In today’s highly competitive business environment, generating sales leads is critical to any organization’s success.
+
+With the rise of machine learning, many organizations are turning to advanced analytics to help them identify potential leads in their target markets. I had the opportunity to work on a project to create a machine learning-based system to generate sales leads. The project covered a range of activities, including gathering business requirements, exploring what data was available and how it could be used, designing the ML architecture, creating datasets and data labeling pipelines, and implementing a recommendation model. The system could acquire, preprocess, extract, model, and recommend companies and people as a potential sales lead. I also developed a data labeling system to help train the model to predict the most promising leads accurately. The project involved much experimentation and testing to ensure the system's accuracy. I tested the system against existing data sets and tweaked the parameters to ensure the model was consistently predicting accurately. 
+
+The result was a robust system that could generate steady sales leads. The plan was able to identify potential leads from various sources and rank them based on their likelihood of success. This project was an excellent opportunity to showcase the power of machine learning and its potential to revolutionize lead sales generation.
+
+Organizations can find new customers and grow their businesses by leveraging the latest technologies.
 
 <!-- <p align="center">
   <img src="network.png">
