@@ -44,6 +44,14 @@ url_video: ""
 slides: ""
 ---
 
-The project covered the analysis of complex vehicle information standards such as Open Diagnostic data eXchange (ODX). This diagnostic data standard contains protocol specifications for diagnostic communication of ECUs (Electronic control unit), communication parameters for different protocols, data link layers for ECUs, and many more information about vehicles.
+The project covered the analysis of complex vehicle information standards such as Open Diagnostic data eXchange (ODX). In terms of understanding, ODX is a challenging task. It requires a deep understanding of the entire content structure, composed of many levels, each highly specialized and varying according to country and manufacturer. This complexity can be challenging to manage, and the latest release is known to contain numerous modifications. Most modern automotive brands use the ODX format to define the essential information associated with their vehicles, like service intervals, maintenance schedules, and possible failures that can lead to serious technical problems.
 
-The project was developed in order to improve creation process of Periodic Technical Inspections.
+ODX format can provide hands-on support to technicians and workshops during periodic technical inspections; however, it still needs to be utilized more widely.
+
+The project was developed to improve the Periodic Technical Inspections (PTI) creation process and to provide a better understanding of the ODX format. I provided:
+
+- An extensive exploratory analysis.
+- Visualization of different parts of the ODX format.
+- The study of the ODX format itself.
+
+It enabled the client to design its process of utilizing the ODX format and create a PTI process using ODX information.
