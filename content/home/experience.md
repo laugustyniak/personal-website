@@ -19,12 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Machine Learning Lead"
+  company = "AVAYA"
+  company_url = "https://www.avaya.com"
+  location = "Remote"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """Developed and implemented AI and Data strategies to shape the vision and roadmap of Avaya's AI and Data capabilities. Established the data-driven culture in the ACI team by driving data-driven decision-making, data-driven product development, and showcasing data-driven customer stories.
+  """
+
+
+[[experience]]
+  title = "Dialog Systems Lead in Clarin-PL-Biz Project"
+  company = "Wroclaw University of Science and Technology"  
+  company_url = "https://www.pwr.edu.pl"
+  location = "Remote"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """I am proud to have been part of the CLARIN-PL-Biz team, responsible for building chatbot engines for the Polish language and creating a Polish NLP leaderboard and benchmarking system. We worked to develop innovative solutions that enabled us to analyze and process natural language data with greater efficiency, accuracy, and scalability. 
+  """
+
+
+[[experience]]
   title = "Head of Data Science"
   company = "Edvantis"
   company_url = "https://www.edvantis.com/"
-  location = "Wrocław / Remote"
+  location = "Remote"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2022-08-01"
   description = """Data Science for Edvantis clients: what they do, how they do it, how Edvantis we can keep improving their products with Data Science.
   * defining the data science PoCs, roadmaps, pipelines, productization steps, data strategies,
   * creation of new data sciences capabilities for the business by envisioning and executing strategies that will influence the improvement of the business performance by enabling informed decision making,
@@ -37,9 +59,9 @@ date_format = "Jan 2006"
   title = "Machine Learning Engineer (Contract)"
   company = "AVAYA"
   company_url = "https://www.avaya.com/"
-  location = "Poznań / Remote"
+  location = "Remote"
   date_start = "2017-06-01"
-  date_end = ""
+  date_end = "2022-08-01"
   description = """
   Spoken Communications has been acquired by AVAYA.
 
