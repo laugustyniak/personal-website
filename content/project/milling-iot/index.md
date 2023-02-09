@@ -44,6 +44,6 @@ url_video: ""
 slides: ""
 ---
 
-The project covered the analysis of complex signals from milling machines. I designed and developed the data pipeline with signal analysis for the client leading a team of 4 developers.
+I recently completed a project that involved designing and developing a data pipeline with signal analysis for a client's milling machines. I led a team of 4 developers to ensure the successful deployment of the project in the production environment. During the project, I was able to profile and improve the CPU (x5 improvement) and memory (50% memory reduction) usage of the pipeline, resulting in improved efficiency of the milling machines.
 
-I have also profiled and improved the CPU and memory usage of the pipeline.
+The project involved developing a system to detect and analyze Internet of Things (IoT) signals. This system was meant to track, monitor, and analyze the signals emitted by IoT devices. The goal of the project was to create a system that could detect anomalies in the signals and alert users if the signals indicate any potential issues. The system was also meant to analyze the signals and provide insights into the performance of the machines. The system was developed using Python and deployed on the edge device using Azure Pipelines.

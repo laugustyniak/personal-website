@@ -40,12 +40,4 @@ image:
 slides: ""
 ---
 
-I provide the **consultancy** and **due diligence of AI solutions** for various companies in the financial sector, automotive, social media, as well as for government institutions ([UOKiK](https://www.uokik.gov.pl/)) and legal firms. 
-
-I also work for software houses and help them to build ML teams and start Data Science projects.
- - what they do, how they do it, how we can keep improving their products with Data Science,
- - defining the data science PoCs, roadmaps, pipelines, productization steps, data strategies,
- - creation of new data sciences capabilities for the business by envisioning and executing strategies that will influence the improvement of the business performance by enabling informed decision making,
- - building and leading a collaborative ML/DS team,
- - developing strategy and methods to ensure data collection, data quality, data annotation,
- - presenting results of Data Science processes and dealing directly with C-level stakeholders.
+I am responsible for developing and executing AI solutions for financial, automotive, social media, government, and legal companies. I have extensive experience consulting and due diligence of AI solutions, helping software houses build ML teams, creating data science PoCs, roadmaps, pipelines, productization steps, and data strategies, leading ML/DS teams, and developing data collection, data quality, and data annotation strategies. My responsibilities include presenting data science processes' results to C-level stakeholders and influencing business performance by enabling informed decision-making.
