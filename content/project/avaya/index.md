@@ -39,9 +39,12 @@ authors:
 
 # Tha main objectives
 
-In the **Avaya Conversational Intelligence (ACI)** project, I have been involved in the complete design and implementation of AI-enabled solutions for call centers. The solution is responsible for automatic speech recognition (ASR), and analysis of transcripts that enable understanding what, who, when, and how is doing in the call centers. It improves agents' productivity and increases customer satisfaction. I worked on implementing state-of-the-art models for spoken language understanding and creating entirely new machine learning models for post ASR natural language processing tasks. 
+In the **Avaya Conversational Intelligence (ACI**) project, I led the ML team, consisting of ML engineers, data linguists, and annotators. I was responsible for designing and implementing AI-enabled solutions for call centers, leveraging my expertise in automatic speech recognition (ASR) and post-ASR natural language processing.
 
-The research community has recognized the research works, and our papers have been accepted at Interspeech and EMNLP conferences.
+Under my leadership, the ML team implemented state-of-the-art spoken language understanding models and created new machine learning models for post-ASR natural language processing tasks. We collaborated closely with Avaya's product and engineering teams to ensure the solution was scalable, reliable, and highly performant.
 
+The ACI solution has significantly enhanced the Avaya platform, making it one of the most innovative and effective conversational intelligence platforms. Our contributions to conversational intelligence have been groundbreaking, and we continue to push the boundaries of what is possible in this exciting field.
+
+The research community has recognized our work, and our papers have been accepted at prestigious conferences such as Interspeech and EMNLP. 
 Check out more about project here: https://www.avaya.com/en/videos/avaya-conversational-intelligence/1_1xh09nax/
 

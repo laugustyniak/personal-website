@@ -44,6 +44,12 @@ url_video: ""
 slides: ""
 ---
 
-I recently completed a project that involved designing and developing a data pipeline with signal analysis for a client's milling machines. I led a team of 4 developers to ensure the successful deployment of the project in the production environment. During the project, I was able to profile and improve the CPU (x5 improvement) and memory (50% memory reduction) usage of the pipeline, resulting in improved efficiency of the milling machines.
+I recently had the opportunity to work on a project that involved designing and developing a data pipeline with signal analysis for a client's milling machines. As part of the project, I led a team of 4 developers to ensure the successful deployment of the project in the production environment.
 
-The project involved developing a system to detect and analyze Internet of Things (IoT) signals. This system was meant to track, monitor, and analyze the signals emitted by IoT devices. The goal of the project was to create a system that could detect anomalies in the signals and alert users if the signals indicate any potential issues. The system was also meant to analyze the signals and provide insights into the performance of the machines. The system was developed using Python and deployed on the edge device using Azure Pipelines.
+During the project, I was able to profile and improve the CPU (x5 improvement) and memory (50% memory reduction) usage of the pipeline, resulting in improved efficiency of the milling machines. Our solution detected and analyzed Internet of Things (IoT) signals emitted by the milling machines.
+
+The project aimed to create a system that could track, monitor, and analyze the signals to detect any anomalies that might indicate potential issues. The system was also meant to explore the signals and provide insights into the performance of the machines.
+
+We developed a Python system and deployed it on the edge device using Azure Pipelines to achieve this. Our solution was highly scalable and efficient, providing real-time analysis and insights into the performance of the milling machines.
+
+This project was an excellent opportunity to showcase the power of data science and machine learning in improving the efficiency and performance of industrial processes. By leveraging IoT signals and data analysis techniques, we created a solution that significantly impacted our client's business outcomes. My experience in data science and machine learning has enabled me to contribute to innovative solutions that drive business outcomes.

@@ -37,13 +37,15 @@ authors:
   # - kajdanowicz
 ---
 
-In today’s highly competitive business environment, generating sales leads is critical to any organization’s success.
+In today's highly competitive business environment, generating sales leads is critical to any organization's success. With the rise of machine learning, many organizations are turning to advanced analytics to help them identify potential leaders in their target markets.
 
-With the rise of machine learning, many organizations are turning to advanced analytics to help them identify potential leads in their target markets. I had the opportunity to work on a project to create a machine learning-based system to generate sales leads. The project covered a range of activities, including gathering business requirements, exploring what data was available and how it could be used, designing the ML architecture, creating datasets and data labeling pipelines, and implementing a recommendation model. The system could acquire, preprocess, extract, model, and recommend companies and people as a potential sales lead. I also developed a data labeling system to help train the model to predict the most promising leads accurately. The project involved much experimentation and testing to ensure the system's accuracy. I tested the system against existing data sets and tweaked the parameters to ensure the model was consistently predicting accurately. 
+I had the opportunity to work as a machine learning developer on a project to create a machine learning-based system to generate sales leads. As part of the project team, I collaborated closely with business stakeholders to gather requirements, explore available data sources, and design the ML architecture. I also created datasets and data labeling pipelines, implemented a recommendation model, and developed a data labeling system to help train the model to accurately predict the most promising leads.
 
-The result was a robust system that could generate steady sales leads. The plan was able to identify potential leads from various sources and rank them based on their likelihood of success. This project was an excellent opportunity to showcase the power of machine learning and its potential to revolutionize lead sales generation.
+The project involved much experimentation and testing to ensure the system's accuracy. I tested the system against existing data sets and tweaked the parameters to ensure the model was consistently predicting accurately. The result was a robust system that could generate steady sales leads. The system could acquire, preprocess, extract, model, and recommend companies and people as potential sales leads.
 
-Organizations can find new customers and grow their businesses by leveraging the latest technologies.
+The system identified potential leads from various sources and ranked them based on their likelihood of success. The project was an excellent opportunity to showcase the power of machine learning and its potential to revolutionize lead sales generation. Organizations can find new customers and grow their businesses by leveraging the latest technologies.
+
+Overall, my experience in machine learning and data science has enabled me to contribute to innovative solutions that drive business outcomes. I am passionate about using technology to solve complex problems and create value for organizations.
 
 <!-- <p align="center">
   <img src="network.png">

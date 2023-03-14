@@ -40,4 +40,10 @@ image:
 slides: ""
 ---
 
-I am responsible for developing and executing AI solutions for financial, automotive, social media, government, and legal companies. I have extensive experience consulting and due diligence of AI solutions, helping software houses build ML teams, creating data science PoCs, roadmaps, pipelines, productization steps, and data strategies, leading ML/DS teams, and developing data collection, data quality, and data annotation strategies. My responsibilities include presenting data science processes' results to C-level stakeholders and influencing business performance by enabling informed decision-making.
+As an AI researcher, architect, and consultant, I am responsible for developing and executing AI solutions for financial, automotive, social media, government, and legal companies. With my extensive experience in consulting and due diligence of AI solutions, I have helped software houses build successful ML teams and create data science proofs of concept, roadmaps, pipelines, and productization steps.
+
+In my role, I have developed and led ML/DS teams, ensuring that data collection, data quality, and data annotation strategies align with project goals. I have also presented data science processes' results to C-level stakeholders, helping them make informed decisions that drive business performance. I take pride in influencing business outcomes by developing data strategies that optimize performance and generate significant revenue.
+
+My skills in AI research, architecture, and consulting, combined with my deep understanding of business needs and data science processes, make me an essential asset for companies seeking to stay ahead in an increasingly competitive market. I am passionate about leveraging AI solutions to drive growth and deliver real business value.
+
+In addition to my expertise in developing and executing AI solutions, I also specialize in LLMs and their AI features in the product. I provide valuable insight and guidance to companies looking to integrate LLMs into their products, ensuring they utilize the latest technology and best practices. My knowledge of LLMs and their AI features enables me to consult with companies to develop effective strategies that optimize product performance and meet business needs. 

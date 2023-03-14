@@ -44,14 +44,13 @@ url_video: ""
 slides: ""
 ---
 
-The project covered the analysis of complex vehicle information standards such as Open Diagnostic data eXchange (ODX). In terms of understanding, ODX is a challenging task. It requires a deep understanding of the entire content structure, composed of many levels, each highly specialized and varying according to country and manufacturer. This complexity can be challenging to manage, and the latest release is known to contain numerous modifications. Most modern automotive brands use the ODX format to define the essential information associated with their vehicles, like service intervals, maintenance schedules, and possible failures that can lead to serious technical problems.
+As a data scientist, I had the opportunity to work on a project that involved analyzing complex vehicle information standards such as Open Diagnostic data eXchange (ODX). Most modern automotive brands use the ODX format to define essential information associated with their vehicles, including service intervals, maintenance schedules, and possible failures that can lead to serious technical problems. However, due to its complexity, understanding the ODX format can be challenging, requiring a deep understanding of the entire content structure, composed of many levels, each highly specialized and varying according to country and manufacturer.
 
-ODX format can provide hands-on support to technicians and workshops during periodic technical inspections; however, it still needs to be utilized more widely.
+The project was developed to improve the creation process of Periodic Technical Inspections (PTI) and to provide a better understanding of the ODX format. As part of the project, I offered the following:
+An extensive exploratory analysis.
+Visualizations of different parts of the ODX format.
+A study of the ODX format itself.
 
-The project was developed to improve the Periodic Technical Inspections (PTI) creation process and to provide a better understanding of the ODX format. I provided:
+By leveraging my data analysis and visualization expertise, I helped the client design its process of utilizing the ODX format and create a PTI process using ODX information. Our solutions enabled the client to understand the ODX structure better and use it more effectively, resulting in improved PTI creation processes.
 
-- An extensive exploratory analysis.
-- Visualization of different parts of the ODX format.
-- The study of the ODX format itself.
-
-It enabled the client to design its process of utilizing the ODX format and create a PTI process using ODX information.
+This project was an excellent opportunity to showcase the power of data science and machine learning in improving the efficiency and performance of automotive industry processes. By leveraging data analysis and visualization techniques, we created a solution that significantly impacted the client's business outcomes. My experience in data science and machine learning has enabled me to contribute to innovative solutions that drive business outcomes. 
